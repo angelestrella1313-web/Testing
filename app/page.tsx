@@ -85,12 +85,12 @@ const agendaItems = [
 ];
 
 const navItems = [
-  { label: "Agenda", icon: CalendarDays, href: "/", active: true },
-  { label: "Venue", icon: MapPin, href: "#" },
-  { label: "Office", icon: Building2, href: "#" },
-  { label: "Quotes", icon: MessageCircle, href: "#" },
-  { label: "Photos", icon: Camera, href: "#" },
-  { label: "Tips", icon: Compass, href: "/tips" }
+  { label: "Agenda", href: "/", emoji: "📅" },
+  { label: "Venue", href: "/venue", emoji: "📍" },
+  { label: "Office", href: "/office", emoji: "🏢" },
+  { label: "Quotes", href: "/quotes", emoji: "💬" },
+  { label: "Photos", href: "/photos", emoji: "📷" },
+  { label: "Tips", href: "/tips", emoji: "🧭" }
 ];
 
 type AgendaCardProps = {
