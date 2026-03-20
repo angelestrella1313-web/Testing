@@ -14,21 +14,21 @@ import {
 } from "lucide-react";
 
 const days = [
-  { short: "FRI", date: "15", active: true },
-  { short: "SAT", date: "16", active: false },
-  { short: "SUN", date: "17", active: false }
+  { short: "WED", date: "10", active: true },
+  { short: "THU", date: "11", active: false },
+  { short: "FRI", date: "12", active: false }
 ];
 
 const agendaItems = [
   {
-    time: "9:00 AM",
-    title: "Welcome + Coffee",
-    location: "Main Conference Room",
-    summary: "Kick off the offsite with the full team.",
+    time: "1:00 PM",
+    title: "Welcome + Lunch",
+    location: "Innovation Tower, 16th Floor",
+    summary: "Lunch will be served 12-1p",
     notes: [
-      "Coffee and breakfast available at 8:30 AM",
+      "Lunch will be available at 12:00 PM",
       "Arrive 10 minutes early",
-      "Opening remarks at 9:00 AM"
+      "Opening remarks at 1:00 pM"
     ],
     icon: Coffee
   },
