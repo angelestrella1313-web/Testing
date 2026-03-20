@@ -24,7 +24,6 @@ const navItems = [
   { label: "Agenda", icon: CalendarDays, href: "/" },
   { label: "Venue", icon: MapPin, href: "/venue" },
   { label: "Office", icon: Building2, href: "/office" },
-  { label: "Quotes", icon: MessageCircle, href: "/quotes" },
   { label: "Photos", icon: Camera, href: "/photos", active: true },
   { label: "Tips", icon: Compass, href: "/tips" }
 ];
