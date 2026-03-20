@@ -7,4 +7,12 @@ export default function OfficePage() {
       </p>
     </main>
   );
+  const navItems = [
+  { label: "Agenda", href: "/", emoji: "📅" },
+  { label: "Venue", href: "/venue", emoji: "📍" },
+  { label: "Office", href: "/office", emoji: "🏢" },
+  { label: "Quotes", href: "/quotes", emoji: "💬" },
+  { label: "Photos", href: "/photos", emoji: "📷" },
+  { label: "Tips", href: "/tips", emoji: "🧭" }
+];
 }
