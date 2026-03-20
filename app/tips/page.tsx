@@ -1,6 +1,6 @@
 "use client";
 
-import BottomNav from "../components/BottomNav";
+import BottomNav from "../../components/BottomNav";
 import { useState } from "react";
 import Link from "next/link";
 import {
