@@ -1,6 +1,6 @@
 "use client";
 
-import BottomNav from "@/components/BottomNav";
+import BottomNav from "../../components/BottomNav";
 export default function PhotosPage() {
   return (
     <main className="min-h-screen bg-[#f7f4ef] pb-24">
