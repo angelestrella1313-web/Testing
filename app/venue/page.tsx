@@ -1,3 +1,4 @@
+import BottomNav from "../../components/BottomNav";
 export default function VenuePage() {
   return (
     <main className="p-6">
