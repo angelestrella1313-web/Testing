@@ -1,6 +1,5 @@
 export default function Home() {
   return <h1>Home Page - Go to /tips</h1>;
-}
 
 <h2 className="mt-2 text-[28px] font-bold leading-tight tracking-tight text-slate-900">
   Need-to-Knows
