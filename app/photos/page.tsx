@@ -8,7 +8,6 @@ import {
   CalendarDays,
   MapPin,
   Building2,
-  MessageCircle,
   Camera,
   Compass,
   Plus
