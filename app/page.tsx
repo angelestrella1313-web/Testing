@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import BottomNav from "../components/BottomNav";
+import BottomNav from "../../components/BottomNav";
 import {
   Settings,
   ChevronDown,
